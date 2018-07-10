@@ -834,15 +834,3 @@ WHERE A.WINNER NOT LIKE '¹«½ÂºÎ'
 GROUP BY A.WINNER
 ORDER BY ½Â¸® DESC
 ;
-
-
-
-DESC team;
-
-SELECT * FROM schedule;
-
-SELECT * FROM stadium;
-
-SELECT * FROM team;
-
-SELECT * FROM player;
